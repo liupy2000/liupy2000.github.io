@@ -79,26 +79,22 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 
 # 💬 Invited Talks
-- 2024 INFORMS Tensor data analysis for advanced clustering and process monitoring session, Seattle, USA
-- 2024 The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA). Seattle, USA
-- 2023 China Industrial Engineering PhD Forum, Beijing, China	
-- 2023 The First National Mathematics and Statistics PhD Forum, Shenyang, China
-- 2023 The 11th Workshop on Quality and Reliability Science & Technology (QRST), Beijing, China	
-- 2022 Peking-Tsinghua Joint Quality Engineering Colloquium, Online	
-- 2021 IISE on Quality Control and Reliability Engineering (QCRE), Online
-- 2020 China Industrial Engineering PhD Forum, Beijing, China	
+- *2024* INFORMS Tensor data analysis for advanced clustering and process monitoring session, Seattle, USA
+- *2024* The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA). Seattle, USA
+- *2023* China Industrial Engineering PhD Forum, Beijing, China	
+- *2023* The First National Mathematics and Statistics PhD Forum, Shenyang, China
+- *2023* The 11th Workshop on Quality and Reliability Science & Technology (QRST), Beijing, China	
+- *2022* Peking-Tsinghua Joint Quality Engineering Colloquium, Online	
+- *2021* IISE on Quality Control and Reliability Engineering (QCRE), Online
+- *2020* China Industrial Engineering PhD Forum, Beijing, China	
 
 
 # 💻 Journal Review  
-- European Journal of Operational Research
--	IISE Transactions on Healthcare System Engineering
--	Omega
+-	IISE Transactions 
 -	IEEE Transactions on Automation Science and Engineering
--	Service Science
--	Journal of the Operational Research Society
 
 # 🔥 Contact
-*Email*: lmd20@mails.tsinghua.edu.cn
+*Email*: liupy20@mails.tsinghua.edu.cn
 
 *Address*: Room 519, Shunde Building, Tsinghua University, Beijing 100084, China
 
