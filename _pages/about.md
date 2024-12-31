@@ -37,6 +37,19 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
+[Heterogeneous Multivariate Functional Time Series Modeling: A State Space Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713887)
+
+**Peiyao Liu**, Junpeng Lin, Chen Zhang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:2osOgNQ5qMEC'></span></strong>
+- Best Paper Award Runner-up, The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [In-profile monitoring for cluster-correlated data in advanced manufacturing system](https://www2.ie.tsinghua.edu.cn/kbwang/Downloads/papers/52.In%20profile%20monitoring%20for%20cluster%20correlated%20data%20in%20advanced%20manufacturing%20system.pdf)
 
 **Peiyao Liu**, Juan Du, Yangyang Zang, Chen Zhang, Kaibo Wang
