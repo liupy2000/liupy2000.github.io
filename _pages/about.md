@@ -47,15 +47,36 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 </div>
 
 # 🎖 Honors and Awards
-- Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
-- First price, 2020 China Industrial Engineering PhD Forum, *2020* 
-- Second Class Scholarship of Tsinghua University,	*2021-2024*
-- Second price, 2023 China Industrial Engineering PhD Forum, *2023*	
-- ISE Magazine Featured Article, *2024*                                                                         
-- Tsinghua Scholarship for Overseas Graduate Studies, *2024* 
-- IE’s Man of the Year, Department of Industrial Engineering, Tsinghua University, *2024*                        	
-- First price, 2024 Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
-- First price, 2024 Beijing Operations Research Society Annual Meeting (Student Group), *2024*
+
+**Paper Awards:**
+- Best Referred Paper Award Finalist, 2024 INFORMS on Quality, Statistics, and Reliability (QSR), *10/2024*
+-	Best Paper Award Runner-up, The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA),	*10/2024*
+-	Best Student Paper Award Finalist, China Industrial Engineering PhD Forum,	*12/2023*
+-	Third Prize, The First National Mathematics and Statistics PhD Forum,	*10/2023*
+-	Nippon Seikō Kabushiki-gaisha (NSK) Sino-Japan Friendship Outstanding Paper Prize for students of the Mechanical Engineering Department,	*9/2023*
+-	Third Prize, The 11thWorkshop on Quality and Reliability Science & Technology (QRST),	*7/2023*
+-	Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE),	*5/2021*
+-	Best Oral Presentation Award, China Industrial Engineering PhD Forum,	*11/2020*
+
+**Scholarships and Honors:**
+-	National Scholarship for Doctoral Students,	*2024*
+-	Apple Scholars in AI/ML PhD fellowship Nomination Award,	*2024*
+-	Tsinghua Scholarship for Overseas Graduate Studies,	*2024*
+-	"Future Professor Training Program" Selected Participant, Department of Industrial Engineering,	*2023*
+-	Second Prize, Graduate Comprehensive Award, Department of Industrial Engineering,	*2023*
+-	Mitsubishi Heavy Industries Scholarship,	*2023*
+-	Personality of the Year, Department of Industrial Engineering,	*2023*
+-	First Prize, Graduate Comprehensive Award, Department of Industrial Engineering,	*2022*
+-	First Prize, Graduate Comprehensive Award, Department of Industrial Engineering,	*2021*
+-	Second Prize, 25th "Hua Luo Geng" Cup Mathematical Modeling Competition, Tsinghua University,	*2019*
+-	Outstanding Student Leader of the Student Science and Technology Association,	*2019*
+-	Academic Excellence Award, Tsinghua University,	*2019*
+-	Academic Excellence Award, Tsinghua University,	*2018*
+-	Social Excellence Award, Tsinghua University,	 *2018*
+-	Academic Excellence Award, Tsinghua University,	*2017*
+-	Volunteer Service Award, Tsinghua University,	*2017*
+-	First Prize, 14th Freshman Mechanical Innovation Contest,	*2016*
+
 
 # 💬 Invited Talks
 - 2019 China Industrial Engineering PhD Forum, Jiaozhou, China
