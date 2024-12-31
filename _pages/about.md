@@ -18,17 +18,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️🎉 <font color="#4A708B">About</font>
-I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Prof. Chen Zhang.
+I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Dr. [Chen Zhang](https://scholar.google.com/citations?user=9Ejv7hIAAAAJ&hl=en).
 I also received my Bachelor of Engineering degree in the Department of Precision Instrument at Tsinghua University.
-From March to September 2024, I visited the Department of Statistics Purdue University in the United States, under the supervision of Prof. Dennis KJ Lin. 
+From March to September 2024, I visited the Department of Statistics Purdue University in the United States, under the supervision of Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/).
 My research interest includes functional data analysis, tensor analysis, Tensor-variate Gaussian process, state space learning and structure learning for Bayesian network in the areas of advanced manufacturing and medical testing. I have published papers at top-tier international journals in the fields of Quality, Statistics & Reliability, with total <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including the finalist of 2024 INFORMS on Quality, Statistics, and Reliability (QSR) Best Referred Paper Award, the runner-up of the 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA) Best Paper Award and the finalist of 2021 IISE on Quality Control and Reliability Engineering (QCRE) Best Student Paper Award.
 
 **<font color="#990000">I am actively seeking a position as a tenure-tracked Assistant Professor in 2025. If you have any information, please contact me!</font>**
 
 
 # 📖 <font color="#4A708B">Educations</font>
-- *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
-- *2024.01 - 2024.08*, Ph.D. visiting student, the Department of Statistics at Purdue University, United States.
+- *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Chen Zhang](https://scholar.google.com/citations?user=9Ejv7hIAAAAJ&hl=en)). <br>
+- *2024.01 - 2024.08*, Ph.D. visiting student, the Department of Statistics at Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
 - *2016.09 - 2020.06*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
 
 # 📝 <font color="#4A708B">Publications</font>
