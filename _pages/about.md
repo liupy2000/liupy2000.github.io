@@ -79,15 +79,15 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 
 # 💬 Invited Talks
-- 2019 China Industrial Engineering PhD Forum, Jiaozhou, China
-- 2020 China Industrial Engineering PhD Forum, Beijing, China
-- 2020 INFROMS Virtual Annual Meeting
-- 2023 POMS International Conference in China, Hangzhou, China
-- 2023 INFORMS Healthcare Conference, Toronto, Canada
-- 2023 China Industrial Engineering PhD Forum, Beijing, China
-- 2024 Annual Meeting of the Data Science and Operations Intelligence, Operations Research Society of China, Beijing, China
-- 2024 INFORMS Annual Meeting, Seattle, US
-- 2024 Beijing Operations Research Society Annual Meeting, Beijing, China
+- 2024 INFORMS Tensor data analysis for advanced clustering and process monitoring session, Seattle, USA
+- 2024 The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA). Seattle, USA
+- 2023 China Industrial Engineering PhD Forum, Beijing, China	
+- 2023 The First National Mathematics and Statistics PhD Forum, Shenyang, China
+- 2023 The 11th Workshop on Quality and Reliability Science & Technology (QRST), Beijing, China	
+- 2022 Peking-Tsinghua Joint Quality Engineering Colloquium, Online	
+- 2021 IISE on Quality Control and Reliability Engineering (QCRE), Online
+- 2020 China Industrial Engineering PhD Forum, Beijing, China	
+
 
 # 💻 Journal Review  
 - European Journal of Operational Research
