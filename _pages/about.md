@@ -34,9 +34,12 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Heterogeneous Multivariate Functional Time Series Modeling: A State Space Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713887)
 
@@ -46,6 +49,24 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 - Best Paper Award Runner-up, The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA)
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A comprehensive survey of recent research on profile data analysis](https://www.researchgate.net/profile/Peiyao-Liu-10/publication/383845283_A_comprehensive_survey_of_recent_research_on_profile_data_analysis/links/66e262a764f7bf7b19a8a730/A-comprehensive-survey-of-recent-research-on-profile-data-analysis.pdf)
+
+**Peiyao Liu**, Haijie Xu, Chen Zhang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:d1gkVwhDpl0C'></span></strong>
+- Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
