@@ -17,18 +17,22 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-# 🎉 About
+# 🙋‍♂️🎉 <font color="#4A708B">About</font>
 I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Prof. Chen Zhang.
 I also received my Bachelor of Engineering degree in the Department of Precision Instrument at Tsinghua University.
 From March to September 2024, I visited the Department of Statistics Purdue University in the United States, under the supervision of Prof. Dennis KJ Lin. 
 My research interest includes functional data analysis, tensor analysis, Tensor-variate Gaussian process, state space learning and structure learning for Bayesian network in the areas of advanced manufacturing and medical testing. I have published papers at top-tier international journals in the fields of Quality, Statistics & Reliability, with total <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including the finalist of 2024 INFORMS on Quality, Statistics, and Reliability (QSR) Best Referred Paper Award, the runner-up of the 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA) Best Paper Award and the finalist of 2021 IISE on Quality Control and Reliability Engineering (QCRE) Best Student Paper Award.
 
-# 📖 Educations
+**<font color="#990000">I am actively seeking a position as a tenure-tracked Assistant Professor in 2025. If you have any information, please contact me!</font>**
+
+
+# 📖 <font color="#4A708B">Educations</font>
 - *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
 - *2024.01 - 2024.08*, Ph.D. visiting student, the Department of Statistics at Purdue University, United States.
 - *2016.09 - 2020.06*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
 
-# 📝 Publications 
+# 📝 <font color="#4A708B">Publications</font>
+> (†: equal contribution, #: corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IISE Transactions 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,7 +119,7 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🏆️ <font color="#4A708B">Honors and Awards</font>
 
 **Paper Awards:**
 - Best Referred Paper Award Finalist, 2024 INFORMS on Quality, Statistics, and Reliability (QSR), *10/2024*
@@ -147,7 +151,7 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
 -	First Prize, 14th Freshman Mechanical Innovation Contest,	*2016*
 
 
-# 💬 Invited Talks
+# 💬 <font color="#4A708B">Invited Talks</font>
 - *2024* INFORMS Tensor data analysis for advanced clustering and process monitoring session, Seattle, USA
 - *2024* The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA). Seattle, USA
 - *2023* China Industrial Engineering PhD Forum, Beijing, China	
@@ -158,13 +162,13 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
 - *2020* China Industrial Engineering PhD Forum, Beijing, China	
 
 
-# 💻 Journal Review  
+# 💻 <font color="#4A708B">Journal Review</font>  
 -	IISE Transactions 
 -	IEEE Transactions on Automation Science and Engineering
 - Quality and Reliability Engineering International
 - Quality Technology \& Quantitative Management
 
-# 🔥 Contact
+# 🔥🌏️ <font color="#4A708B">Contact</font>
 *Email*: liupy20@mails.tsinghua.edu.cn
 
 *Address*: Room 519, Shunde Building, Tsinghua University, Beijing 100084, China
