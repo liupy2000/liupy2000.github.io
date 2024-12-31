@@ -39,7 +39,7 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 [Stream of variation modeling and monitoring for heterogeneous profiles in multi-stage manufacturing processes](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2413122)
 
-**Peiyao Liu**, Yujie Ma, Chen Zhang
+**Peiyao Liu**, Yujie Ma, Chen Zhang#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Best Referred Paper Award Finalist, 2024 INFORMS on Quality, Statistics, and Reliability (QSR)
@@ -55,7 +55,7 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 [Heterogeneous Multivariate Functional Time Series Modeling: A State Space Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10713887)
 
-**Peiyao Liu**, Junpeng Lin, Chen Zhang
+**Peiyao Liu**, Junpeng Lin, Chen Zhang#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:2osOgNQ5qMEC'></span></strong>
 - Best Paper Award Runner-up, The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA)
@@ -69,7 +69,7 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 [A comprehensive survey of recent research on profile data analysis](https://www.researchgate.net/profile/Peiyao-Liu-10/publication/383845283_A_comprehensive_survey_of_recent_research_on_profile_data_analysis/links/66e262a764f7bf7b19a8a730/A-comprehensive-survey-of-recent-research-on-profile-data-analysis.pdf)
 
-**Peiyao Liu**, Haijie Xu, Chen Zhang
+**Peiyao Liu**, Haijie Xu, Chen Zhang#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:d1gkVwhDpl0C'></span></strong>
 </div>
@@ -84,7 +84,7 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 [In-profile monitoring for cluster-correlated data in advanced manufacturing system](https://www2.ie.tsinghua.edu.cn/kbwang/Downloads/papers/52.In%20profile%20monitoring%20for%20cluster%20correlated%20data%20in%20advanced%20manufacturing%20system.pdf)
 
-**Peiyao Liu**, Juan Du, Yangyang Zang, Chen Zhang, Kaibo Wang
+**Peiyao Liu**, Juan Du, Yangyang Zang, Chen Zhang#, Kaibo Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u-x6o8ySG0sC'></span></strong>
 - Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
@@ -99,7 +99,7 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 [Functional state-space model for multi-channel autoregressive profiles with application in advanced manufacturing](https://www.researchgate.net/profile/Chen-Zhang-159/publication/361953378_Functional_state-space_model_for_multi-channel_autoregressive_profiles_with_application_in_advanced_manufacturing/links/62d00ebc953dfc1e93ff79e8/Functional-state-space-model-for-multi-channel-autoregressive-profiles-with-application-in-advanced-manufacturing.pdf)
 
-Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
+Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -113,7 +113,7 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
 
 [Advanced Data Analytical Techniques for Profile Monitoring](https://www.researchgate.net/profile/Nathan-Gaw/publication/380658621_Introduction_to_Multimodal_and_Tensor_Data_Analytics/links/66d882d6b1606e24c2e19a53/Introduction-to-Multimodal-and-Tensor-Data-Analytics.pdf#page=30)
 
-**Peiyao Liu**, Chen Zhang
+**Peiyao Liu**, Chen Zhang#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
