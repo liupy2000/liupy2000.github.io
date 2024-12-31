@@ -154,7 +154,7 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
 -	IISE Transactions 
 -	IEEE Transactions on Automation Science and Engineering
 - Quality and Reliability Engineering International
-- Quality Technology & Quantitative Management
+- Quality Technology \& Quantitative Management
 
 # 🔥 Contact
 *Email*: liupy20@mails.tsinghua.edu.cn
