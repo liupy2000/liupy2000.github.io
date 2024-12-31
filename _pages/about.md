@@ -80,6 +80,20 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advanced Data Analytical Techniques for Profile Monitoring](https://www.researchgate.net/profile/Nathan-Gaw/publication/380658621_Introduction_to_Multimodal_and_Tensor_Data_Analytics/links/66d882d6b1606e24c2e19a53/Introduction-to-Multimodal-and-Tensor-Data-Analytics.pdf#page=30)
+
+**Peiyao Liu**, Chen Zhang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:9yKSN-GCB0IC'></span></strong>
+- Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 
 **Paper Awards:**
