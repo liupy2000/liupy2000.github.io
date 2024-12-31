@@ -60,7 +60,6 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 **Peiyao Liu**, Haijie Xu, Chen Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:d1gkVwhDpl0C'></span></strong>
-- Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
 </div>
 </div>
 
@@ -82,6 +81,21 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Functional state-space model for multi-channel autoregressive profiles with application in advanced manufacturing](https://www.researchgate.net/profile/Chen-Zhang-159/publication/361953378_Functional_state-space_model_for_multi-channel_autoregressive_profiles_with_application_in_advanced_manufacturing/links/62d00ebc953dfc1e93ff79e8/Functional-state-space-model-for-multi-channel-autoregressive-profiles-with-application-in-advanced-manufacturing.pdf)
+
+Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang, Junxing Zhang, Shaobo Li
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:qjMakFHDy7sC'></span></strong>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,7 +104,6 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 **Peiyao Liu**, Chen Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:9yKSN-GCB0IC'></span></strong>
-- Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
 </div>
 </div>
 
