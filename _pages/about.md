@@ -25,12 +25,12 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IISE Transactions 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stream of variation modeling and monitoring for heterogeneous profiles in multi-stage manufacturing processes](https://www2.ie.tsinghua.edu.cn/kbwang/Downloads/papers/52.In%20profile%20monitoring%20for%20cluster%20correlated%20data%20in%20advanced%20manufacturing%20system.pdf)
+[Stream of variation modeling and monitoring for heterogeneous profiles in multi-stage manufacturing processes](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2413122)
 
 **Peiyao Liu**, Yujie Ma, Chen Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u5HHmVD_uO8C'></span></strong>
+- Best Referred Paper Award Finalist, 2024 INFORMS on Quality, Statistics, and Reliability (QSR)
 </div>
 </div>
 
