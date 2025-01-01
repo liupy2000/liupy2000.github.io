@@ -79,7 +79,7 @@ My research interest includes functional data analysis, tensor analysis, Tensor-
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JQT 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [In-profile monitoring for cluster-correlated data in advanced manufacturing system](https://www2.ie.tsinghua.edu.cn/kbwang/Downloads/papers/52.In%20profile%20monitoring%20for%20cluster%20correlated%20data%20in%20advanced%20manufacturing%20system.pdf)
@@ -108,7 +108,7 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chapter 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Advanced Data Analytical Techniques for Profile Monitoring](https://www.researchgate.net/profile/Nathan-Gaw/publication/380658621_Introduction_to_Multimodal_and_Tensor_Data_Analytics/links/66d882d6b1606e24c2e19a53/Introduction-to-Multimodal-and-Tensor-Data-Analytics.pdf#page=30)
