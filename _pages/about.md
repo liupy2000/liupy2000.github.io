@@ -27,9 +27,9 @@ My research interest includes functional data analysis, tensor analysis, tensor 
 
 
 # 📖 <font color="#4A708B">Educations</font>
-- *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Chen Zhang](https://scholar.google.com/citations?user=9Ejv7hIAAAAJ&hl=en)). <br>
+- *2020 - 2025(now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Chen Zhang](https://scholar.google.com/citations?user=9Ejv7hIAAAAJ&hl=en)). <br>
 - *2024.03 - 2024.09*, Ph.D. visiting student, the Department of Statistics at Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
-- *2016.09 - 2020.06*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
+- *2016 - 2020*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
 
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
