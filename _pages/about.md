@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️🎉 <font color="#4A708B">About</font>
-I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Dr. [Chen Zhang](https://scholar.google.com/citations?user=9Ejv7hIAAAAJ&hl=en).
+I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm).
 I also received my Bachelor of Engineering degree in the Department of Precision Instrument at Tsinghua University.
 From March to September 2024, I visited the Department of Statistics Purdue University in the United States, under the supervision of Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/).
 My research interest includes functional data analysis, tensor analysis, tensor Gaussian process, state space learning, and Bayesian network in the areas of advanced manufacturing and medical testing. I have published papers at top-tier international journals in the fields of Quality, Statistics & Reliability, with total <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRSE.
