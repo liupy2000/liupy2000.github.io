@@ -34,8 +34,7 @@ My research interest includes functional data analysis, tensor analysis, tensor 
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IISE Transactions 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="badge">IISE Transactions 2024</div>
 
 [Stream of variation modeling and monitoring for heterogeneous profiles in multi-stage manufacturing processes](https://www.tandfonline.com/doi/abs/10.1080/24725854.2024.2413122)
 
