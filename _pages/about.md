@@ -31,7 +31,7 @@ My research interests include functional data analysis, tensor decomposition, Ga
 - *2024.03 - 2024.09*, Ph.D. visiting student, Department of Statistics, Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
 - *2016 - 2020*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
 
-<span class='anchor' id='news'></span>
+<span class='anchor' id='-news'></span>
 # 🎉 <font color="#4A708B">News</font>
 - [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf)
 
