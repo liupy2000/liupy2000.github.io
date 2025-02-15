@@ -17,7 +17,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-# 🙋‍♂️🎉 <font color="#4A708B">About</font>
+# 🙋‍♂ <font color="#4A708B">About</font>
 I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm).
 I also received my Bachelor of Engineering degree in the Department of Precision Instrument at Tsinghua University.
 From March to September 2024, I visited the Department of Statistics at Purdue University in the United States, under the supervision of Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/).
@@ -30,6 +30,11 @@ My research interests include functional data analysis, tensor decomposition, Ga
 - *2020 - 2025(now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm)). <br>
 - *2024.03 - 2024.09*, Ph.D. visiting student, Department of Statistics, Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
 - *2016 - 2020*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
+
+<span class='anchor' id='news'></span>
+# 🎉 <font color="#4A708B">News</font>
+- [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf)
+
 
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
