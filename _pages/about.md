@@ -33,7 +33,7 @@ My research interests include functional data analysis, tensor decomposition, Ga
 
 <span class='anchor' id='-news'></span>
 # 🎉 <font color="#4A708B">News</font>
-- [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf)
+- [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf) <br>
 
 
 # 📝 <font color="#4A708B">Publications</font>
