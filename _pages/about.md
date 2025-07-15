@@ -31,8 +31,7 @@ My research interests include functional data analysis, tensor decomposition, Ga
 
 
 
-# 📝 <font color="#4A708B">Publications</font>
-> (†: equal contribution, #: corresponding author)
+# 📝 <font color="#4A708B">Publications > (†: equal contribution, #: corresponding author)</font>
 
 <div class="badge">IISE Transactions 2024</div></div>
 
@@ -128,13 +127,12 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 # 💬 <font color="#4A708B">Invited Talks</font>
 - *2025* INFORMS conference on Quality, Statistics, and Reliability, Singapore
 - *2025* 15th Youth Forum of the Chinese Society of Optimization, Overall Planning & Economic Mathematics, Harbin, China
-- *2024* The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA). Seattle, USA
+- *2024* The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA), Seattle, USA
 - *2023* China Industrial Engineering PhD Forum, Beijing, China	
 - *2023* The First National Mathematics and Statistics PhD Forum, Shenyang, China
 - *2023* The 11th Workshop on Quality and Reliability Science & Technology (QRST), Beijing, China	
-- *2022* Peking-Tsinghua Joint Quality Engineering Colloquium, Online	
 - *2021* IISE on Quality Control and Reliability Engineering (QCRE), Online
-- *2020* China Industrial Engineering PhD Forum, Beijing, China	
+- *2020* China Industrial Engineering PhD Forum, Beijing, China
 
 
 # 💻 <font color="#4A708B">Journal Review</font>  
