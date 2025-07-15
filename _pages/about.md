@@ -29,9 +29,6 @@ My research interests include functional data analysis, tensor decomposition, Ga
 - *2016 - 2020*, B.Eng.​​ in Department of Precision Instrument, Tsinghua University, P. R. China.
 - *2024.03 - 2024.09*, Visiting scholar, Department of Statistics, Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
 
-<span class='anchor' id='-news'></span>
-# 🎉 <font color="#4A708B">News</font>
-- [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf) <br>
 
 
 # 📝 <font color="#4A708B">Publications</font>
@@ -146,6 +143,11 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 -	IEEE Transactions on Automation Science and Engineering
 - Quality and Reliability Engineering International
 - Quality Technology & Quantitative Management
+
+<span class='anchor' id='-news'></span>
+# 🎉 <font color="#4A708B">News</font>
+- [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf) <be>
+
 
 <span class='anchor' id='-contact'></span>
 # 🔥🌏️ <font color="#4A708B">Contact</font>
