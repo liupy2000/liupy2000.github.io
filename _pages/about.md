@@ -32,8 +32,6 @@ My research interests include functional data analysis, tensor decomposition, Ga
 
 
 # 📝 <font color="#4A708B">Publications </font> 
-<font size="3">(†: equal contribution, #: corresponding author)</font>﻿
-
 
 <div class="badge">IISE Transactions 2024</div></div>
 
@@ -97,6 +95,8 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 **Peiyao Liu**, Chen Zhang#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+> (†: equal contribution, #: corresponding author)
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
