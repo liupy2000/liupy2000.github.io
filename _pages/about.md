@@ -18,18 +18,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂ <font color="#4A708B">About</font>
-I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm).
-I also received my Bachelor of Engineering degree in the Department of Precision Instrument at Tsinghua University.
-From March to September 2024, I visited the Department of Statistics at Purdue University in the United States, under the supervision of Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/).
-My research interests include functional data analysis, tensor decomposition, Gaussian process, state space model, and Bayesian network in the areas of advanced manufacturing and medical testing. I have published papers at top-tier international journals in the fields of Quality, Statistics & Reliability, with total <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'> Google Scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRSE.
+I am a Research Engineer in the Department of Industrial Systems Engineering and Management at the ​​National University of Singapore​, advised by Dr. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
+My research interests include functional data analysis, tensor decomposition, Gaussian process, state space model, and Bayesian network in the areas of advanced manufacturing and medical testing. I have published papers at top-tier international journals in the fields of Quality, Statistics & Reliability, with total <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'> Google Scholar citations <strong><span id='total_cit'>10+</span></strong></a> <a href='https://scholar.google.com/citations?user=VKBRUmsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My research has been recognized with several prestigious awards, including ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRSE.
 
 **<font color="#990000">I am actively seeking a position as a tenure-tracked Assistant Professor in 2025. If you have any information, please contact me!</font>**
 
 
-# 📖 <font color="#4A708B">Educations</font>
-- *2020 - 2025(now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm)). <br>
-- *2024.03 - 2024.09*, Ph.D. visiting student, Department of Statistics, Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
-- *2016 - 2020*, Undergraduate student, Department of Precision Instrument, Tsinghua University (THU), P. R. China.
+# 📖 <font color="#4A708B">Educations & Visits</font>
+- *2020 - 2025*, Ph.D. in Department of Industrial Engineering, Tsinghua University, P. R. China. (Advisor: Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm)). <br>
+- *2016 - 2020*, B.Eng.​​ in Department of Precision Instrument, Tsinghua University, P. R. China.
+- *2024.03 - 2024.09*, Visiting scholar, Department of Statistics, Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
 
 <span class='anchor' id='-news'></span>
 # 🎉 <font color="#4A708B">News</font>
@@ -106,6 +104,8 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
 
 **Paper Awards:**
+- Best Paper Award Winner, 2025 INFORMS conference on Quality, Statistics, and Reliability (ICQSR), *07/2025*
+- Excellent Paper Award, 15th Youth Forum of the Chinese Society of Optimization, Overall Planning & Economic Mathematics, *05/2025*
 - Best Referred Paper Award Finalist, 2024 INFORMS on Quality, Statistics, and Reliability (QSR), *10/2024*
 -	Best Paper Award Runner-up, The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA),	*10/2024*
 -	Best Student Paper Award Finalist, China Industrial Engineering PhD Forum,	*12/2023*
@@ -115,28 +115,22 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 -	Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE),	*5/2021*
 -	Best Oral Presentation Award, China Industrial Engineering PhD Forum,	*11/2020*
 
-**Scholarships and Honors:**
+**Selected Scholarships and Honors:**
+- Tsinghua University Outstanding Doctoral Dissertation Award, *2025*
+- Tsinghua University Outstanding Doctoral Graduate, *2025*
+- Selected for the China Association for Science and Technology (CAST) Young Talent Support Program (PhD Candidate Special Project), *2024*
 -	National Scholarship for Doctoral Students,	*2024*
--	Apple Scholars in AI/ML PhD fellowship Nomination Award,	*2024*
--	Tsinghua Scholarship for Overseas Graduate Studies,	*2024*
+-	Apple Scholars in AI/ML PhD fellowship Nomination Award, *2024*
 -	"Future Professor Training Program" Selected Participant, Department of Industrial Engineering,	*2023*
--	Second Prize, Graduate Comprehensive Award, Department of Industrial Engineering,	*2023*
 -	Mitsubishi Heavy Industries Scholarship,	*2023*
 -	Personality of the Year, Department of Industrial Engineering,	*2023*
--	First Prize, Graduate Comprehensive Award, Department of Industrial Engineering,	*2022*
--	First Prize, Graduate Comprehensive Award, Department of Industrial Engineering,	*2021*
--	Second Prize, 25th "Hua Luo Geng" Cup Mathematical Modeling Competition, Tsinghua University,	*2019*
--	Outstanding Student Leader of the Student Science and Technology Association,	*2019*
--	Academic Excellence Award, Tsinghua University,	*2019*
--	Academic Excellence Award, Tsinghua University,	*2018*
--	Social Excellence Award, Tsinghua University,	 *2018*
--	Academic Excellence Award, Tsinghua University,	*2017*
--	Volunteer Service Award, Tsinghua University,	*2017*
--	First Prize, 14th Freshman Mechanical Innovation Contest,	*2016*
+-	Graduate Comprehensive Award, Department of Industrial Engineering,	*2021-2023*
+-	Academic Excellence Award, Tsinghua University,	*2017-2019*
 
 
 # 💬 <font color="#4A708B">Invited Talks</font>
-- *2024* INFORMS Tensor data analysis for advanced clustering and process monitoring session, Seattle, USA
+- *2025* INFORMS conference on Quality, Statistics, and Reliability, Singapore
+- *2025* 15th Youth Forum of the Chinese Society of Optimization, Overall Planning & Economic Mathematics, Harbin, China
 - *2024* The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA). Seattle, USA
 - *2023* China Industrial Engineering PhD Forum, Beijing, China	
 - *2023* The First National Mathematics and Statistics PhD Forum, Shenyang, China
@@ -147,15 +141,16 @@ Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang#, Junxing Zhang, Shaobo Li
 
 
 # 💻 <font color="#4A708B">Journal Review</font>  
--	IISE Transactions 
+-	IISE Transactions
+-	Technometics
 -	IEEE Transactions on Automation Science and Engineering
 - Quality and Reliability Engineering International
 - Quality Technology & Quantitative Management
 
 <span class='anchor' id='-contact'></span>
 # 🔥🌏️ <font color="#4A708B">Contact</font>
-*Email*: liupy20@mails.tsinghua.edu.cn
+*Email*: cassiecathy1217@gmail.com
 
-*Address*: Room 519, Shunde Building, Tsinghua University, Beijing 100084, China
+*Address*: Lab E1A, National University of Singapore, 117576
 
 
