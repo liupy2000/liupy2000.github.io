@@ -31,7 +31,8 @@ My research interests include functional data analysis, tensor decomposition, Ga
 
 
 
-# 📝 <font color="#4A708B">Publications </font> <font size="3">(†: equal contribution, #: corresponding author)</font>﻿
+# 📝 <font color="#4A708B">Publications </font> 
+<font size="3">(†: equal contribution, #: corresponding author)</font>﻿
 
 
 <div class="badge">IISE Transactions 2024</div></div>
