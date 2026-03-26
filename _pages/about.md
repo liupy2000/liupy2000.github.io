@@ -38,7 +38,7 @@ My research interests include functional data analysis, tensor decomposition, Ga
 
 **Peiyao Liu**, Xueru Zhang, Dennis KJ Lin, and Chen Zhang#
 
-[**Project**]() <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u5HHmVD_uO8C'></span></strong>
+
 
 
 <div class="badge">Technometrics 2026</div></div>
@@ -46,8 +46,8 @@ My research interests include functional data analysis, tensor decomposition, Ga
 [Spatial in-profile monitoring via latent tensor Gaussian process with mixed effects](https://doi.org/10.1080/00401706.2026.2649041)
 
 **Peiyao Liu**, Jie Guo, Chen Zhang#, and Nan Chen
-
-[**Project**]() <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u5HHmVD_uO8C'></span></strong>
+- Best Paper Award Winner, INFORMS Conference on Quality, Statistics, and Reliability
+- QSR Best Refereed Paper Award Finalist, INFORMS Annual Conference
 
 
 
@@ -57,7 +57,6 @@ My research interests include functional data analysis, tensor decomposition, Ga
 
 Xueru Zhang, Dennis KJ Lin, **Peiyao Liu**#
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&sortby=pubdate&citation_for_view=VKBRUmsAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 
 <div class="badge">IISE Transactions 2025</div></div>
@@ -66,7 +65,6 @@ Xueru Zhang, Dennis KJ Lin, **Peiyao Liu**#
 
 **Peiyao Liu**, Yujie Ma, Chen Zhang#
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 
 
@@ -76,8 +74,7 @@ Xueru Zhang, Dennis KJ Lin, **Peiyao Liu**#
 
 **Peiyao Liu**, Junpeng Lin, Chen Zhang#
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:2osOgNQ5qMEC'></span></strong>
-- Best Paper Award Runner-up, The 19th INFORMS Workshop on Data Mining and Decision Analytics (DMDA)
+- DMDA Best Paper Award Runner-up, INFORMS Annual Conference
 
 
 
@@ -86,9 +83,6 @@ Xueru Zhang, Dennis KJ Lin, **Peiyao Liu**#
 [A comprehensive survey of recent research on profile data analysis](https://doi.org/10.1080/00224065.2024.2369933)
 
 **Peiyao Liu**, Haijie Xu, Chen Zhang#
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:d1gkVwhDpl0C'></span></strong>
-
 
 
 
@@ -99,8 +93,7 @@ Xueru Zhang, Dennis KJ Lin, **Peiyao Liu**#
 
 **Peiyao Liu**, Juan Du, Yangyang Zang, Chen Zhang#, Kaibo Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=VKBRUmsAAAAJ&citation_for_view=VKBRUmsAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='VKBRUmsAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Best Student Paper Award Finalist, 2021 IISE on Quality Control and Reliability Engineering (QCRE)
+- QCRE Best Student Paper Award Finalist, IISE Annual Conference
 
 
 
