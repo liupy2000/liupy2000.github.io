@@ -23,12 +23,15 @@ My research interests include anomaly detection, data mining, feedback control, 
 
 **<font color="#990000">I am actively seeking a position as a tenure-tracked Assistant Professor. If you have any information, please contact me!</font>**
 
+<span class='anchor' id='-'></span>
+# 🌏️ <font color="#4A708B">Employment & Visits</font>
+- *2025.06 - present*, Research fellow, Industrial Systems Engineering and Management, National University of Singapore, Singapore. (Advisor: Dr. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/)). <br>
+- *2024.03 - 2024.09*, Visiting scholar, Department of Statistics, Purdue University, West Lafayette, Indiana, USA. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
+- *2018.07 - 2018.09*, Visiting scholar, Mechanical Engineering and Materials Science, Duke University, Durham, North Carolina, USA. (Advisor: Prof. [Tony Jun Huang](https://mems.duke.edu/people/tony-jun-huang/)). <br>
 
-# 📖 <font color="#4A708B">Educations & Visits</font>
+# 📖 <font color="#4A708B">Educations</font>
 - *2020 - 2025*, Ph.D. in Department of Industrial Engineering, Tsinghua University, P. R. China. (Advisor: Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm)). <br>
 - *2016 - 2020*, B.Eng.​​ in Department of Precision Instrument, Tsinghua University, P. R. China.
-- *2024.03 - 2024.09*, Visiting scholar, Department of Statistics, Purdue University, United States. (Advisor: Prof. [Dennis KJ Lin](https://www.stat.purdue.edu/~dkjlin/)). <br>
-
 
 
 # 📝 <font color="#4A708B">Publications </font> 
@@ -152,9 +155,9 @@ Xueru Zhang, Dennis KJ Lin, **Peiyao Liu**#
 
 
 <span class='anchor' id='-contact'></span>
-# 🔥🌏️ <font color="#4A708B">Contact</font>
+# 🔥 <font color="#4A708B">Contact</font>
 *Email*: cassiecathy1217@gmail.com
 
-*Address*: Lab E1A, National University of Singapore, 117576
+*Address*: Lab E1, National University of Singapore, 117576
 
 
