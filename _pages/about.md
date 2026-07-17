@@ -19,7 +19,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 # 🙋‍♂️ <font color="#4A708B">About</font>
 
-I am a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, supervised by Dr. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/). My research focuses on **AI-enabled quality engineering** for intelligent manufacturing and other data-rich systems, where high-dimensional, multimodal, streaming, and partially observed data must be converted into reliable real-time decisions.
+I am a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, supervised by Prof. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/). My research focuses on **AI-enabled quality engineering** for intelligent manufacturing and other data-rich systems, where high-dimensional, multimodal, streaming, and partially observed data must be converted into reliable real-time decisions.
 
 My work follows a unified **learn–monitor–decide–control** framework. I develop methods for complex data modeling, anomaly and change detection, adaptive sensing, causal and structure learning, and feedback control, using machine learning, reinforcement learning, functional data analysis, tensor learning, and state-space models.
 
@@ -31,7 +31,7 @@ I have published papers or received major revisions at leading journals includin
 <span class="anchor" id="employment"></span>
 # 🌏 <font color="#4A708B">Employment & Visits</font>
 
-- *2025.06–present*, Research Fellow, Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore. Advisor: Dr. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
+- *2025.06–present*, Research Fellow, Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore. Advisor: Prof. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
 - *2024.03–2024.09*, Visiting Scholar, Department of Statistics, Purdue University, West Lafayette, Indiana, USA. Advisor: Prof. [Dennis K. J. Lin](https://www.stat.purdue.edu/~dkjlin/).
 - *2018.07–2018.09*, Visiting Scholar, Department of Mechanical Engineering and Materials Science, Duke University, Durham, North Carolina, USA. Advisor: Prof. [Tony Jun Huang](https://mems.duke.edu/people/tony-jun-huang/).
 
