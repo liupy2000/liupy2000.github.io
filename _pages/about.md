@@ -23,7 +23,7 @@ I am a Research Fellow in the Department of Industrial Systems Engineering and M
 
 My work follows a unified **learn–monitor–decide–control** framework. I develop methods for complex data modeling, anomaly and change detection, adaptive sensing, causal and structure learning, and feedback control, using machine learning, reinforcement learning, functional data analysis, tensor learning, and state-space models.
 
-I have published papers or received major revisions at leading journals including *IEEE Transactions on Knowledge and Data Engineering*, *Technometrics*, *IISE Transactions*, *European Journal of Operational Research*, and *Journal of Quality Technology*. My work has received awards from ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRST. See my [Google Scholar profile](https://scholar.google.com/citations?user=VKBRUmsAAAAJ).
+I have published papers or received major revisions at leading journals including *Technometrics*, *IISE Transactions*, *European Journal of Operational Research*, *Journal of Quality Technology*, and *IEEE Transactions on Knowledge and Data Engineering*. My work has received awards from ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRST. See my [Google Scholar profile](https://scholar.google.com/citations?user=VKBRUmsAAAAJ).
 
 **<font color="#990000">I am actively seeking a tenure-track Assistant Professor position. Please feel free to contact me if you know of a suitable opportunity.</font>**
 
@@ -48,60 +48,40 @@ I have published papers or received major revisions at leading journals includin
 
 ## Major Revisions
 
-- **Peiyao Liu**, Lijia Liu, Shuang Xu, Chen Zhang, Wei Yan, Nan Chen<sup>#</sup>, and Yong Chen. “Feedback control for functional time series via functional state space with exogenous inputs.” *European Journal of Operational Research*. **Major Revision**.
-- **Peiyao Liu**, Xueru Zhang, Qiang Zhang, Dennis K. J. Lin, Chen Zhang<sup>#</sup>, and Nan Chen. “Structure learning for functional directed acyclic graph via order-of-addition experiment.” *IISE Transactions*. **Major Revision**.
-- Shuang Wang, **Peiyao Liu**, Yifan Li, Ming Liu<sup>#</sup>, and Meng Qi. “Motorail loading problem with two-dimensional irregular constraints: Formulation, optimization and implications.” *Transportation Research Part B: Methodological*. **Major Revision**.
+- **Peiyao Liu**, Lanxi Liu, Shengfeng Xu, Chen Zhang, Wentao Yan, Nan Chen<sup>#</sup>, and Yong Chen. “Feedback control for functional time series via functional state space with exogenous inputs.” *European Journal of Operational Research*. **Major Revision**.
+- **Peiyao Liu**, Xueru Zhang, Dennis K. J. Lin, Chen Zhang<sup>#</sup>, and Nan Chen. “Structure learning for functional directed acyclic graph via order-of-addition experiment.” *IISE Transactions*. **Major Revision**.
+- Songtao Wang, **Peiyao Liu**, Yichen Li, Mingda Liu<sup>#</sup>, and Mingyao Qi. “Motorail loading problem with two-dimensional irregular constraints: Formulation, optimization and implications.” *Transportation Research Part B: Methodological*. **Major Revision**.
 
 ## Published Journal Articles
 
 - **2026** — **Peiyao Liu**, Jie Guo, Chen Zhang<sup>#</sup>, and Nan Chen. “[Spatial in-profile monitoring via latent tensor Gaussian process with mixed effects](https://doi.org/10.1080/00401706.2026.2649041).” *Technometrics*.
 - **2026** — Xueru Zhang, Dennis K. J. Lin, and **Peiyao Liu**<sup>#</sup>. “[Design and analysis for digital twin optimization](https://doi.org/10.1002/qre.70081).” *Quality and Reliability Engineering International*, 42(1), 80–92.
-- **2026** — Bing Yang, Peng Zhou<sup>#</sup>, Kai Li, Chen Zhang, and **Peiyao Liu**. “A review of the application of functional data analysis in industrial intelligent systems.” *Journal of Intelligent Manufacturing*.
-- **2026** — Yujie Ma, Xia Xia, **Peiyao Liu**, and Chen Zhang<sup>#</sup>. “Bilevel joint optimization for product design changes with a resilient supply chain based on deep reinforcement learning.” *International Journal of Production Economics*.
+- **2026** — Bing Yang, Peng Zhou<sup>#</sup>, Kaixin Li, Chen Zhang, and **Peiyao Liu**. “A review of the application of functional data analysis in industrial intelligent systems.” *Journal of Intelligent Manufacturing*.
+- **2026** — Yujie Ma, Xin Xia, **Peiyao Liu**, and Chen Zhang<sup>#</sup>. “Bilevel joint optimization for product design changes with a resilient supply chain based on deep reinforcement learning.” *International Journal of Production Economics*.
 - **2025** — **Peiyao Liu**, Yujie Ma, and Chen Zhang<sup>#</sup>. “[Stream of variation modeling and monitoring for heterogeneous profiles in multi-stage manufacturing processes](https://doi.org/10.1080/24725854.2024.2413122).” *IISE Transactions*, 57(11), 1263–1276.
 - **2024** — **Peiyao Liu**, Junpeng Lin, and Chen Zhang<sup>#</sup>. “[Heterogeneous multivariate functional time series modeling: A state space approach](https://doi.org/10.1109/TKDE.2024.3472906).” *IEEE Transactions on Knowledge and Data Engineering*, 36(12), 8421–8433.
 - **2024** — **Peiyao Liu**, Haijie Xu, and Chen Zhang<sup>#</sup>. “[A comprehensive survey of recent research on profile data analysis](https://doi.org/10.1080/00224065.2024.2369933).” *Journal of Quality Technology*, 56(5), 428–454.
 - **2023** — **Peiyao Liu**, Juan Du, Yangyang Zang, Chen Zhang<sup>#</sup>, and Kaibo Wang. “[In-profile monitoring for cluster-correlated data in advanced manufacturing system](https://doi.org/10.1080/00224065.2022.2106912).” *Journal of Quality Technology*, 55(2), 195–219.
-- **2022** — Peng Zhou, **Peiyao Liu**, Shiyu Wang, Chen Zhang<sup>#</sup>, Jian Zhang, and Shuo Li. “Functional state-space model for multi-channel autoregressive profiles with application in advanced manufacturing.” *Journal of Manufacturing Systems*, 64, 356–371.
-- **2022** — **Peiyao Liu**, Yangyang Zang, Lijun Yang, Chen Zhang<sup>#</sup>, and Yiyong Yang. “Hybrid feature fusion for NC milling process monitoring.” *Modular Machine Tool & Automatic Manufacturing Technique*, 12, 94–98. (In Chinese)
+- **2022** — Peng Zhou, **Peiyao Liu**, Shilong Wang, Chen Zhang<sup>#</sup>, Junxing Zhang, and Shaobo Li. “Functional state-space model for multi-channel autoregressive profiles with application in advanced manufacturing.” *Journal of Manufacturing Systems*, 64, 356–371.
+- **2022** — **Peiyao Liu**, Yangyang Zang, Luo Yang, Chen Zhang<sup>#</sup>, and Yang Yang. “Hybrid feature fusion for NC milling process monitoring.” *Modular Machine Tool & Automatic Manufacturing Technique*, 12, 94–98. (In Chinese)
 
 ## Manuscripts Under Review
 
-- **Peiyao Liu**, Jie Guo, Zichen Wang, and Nan Chen<sup>#</sup>. “FAST: Functional adaptive sensing and testing for quickest change detection.” Submitted to *INFORMS Journal on Computing*.
+- **Peiyao Liu**, Jie Guo, and Nan Chen<sup>#</sup>. “FAST: Functional adaptive sensing and testing for quickest change detection.” Submitted to *INFORMS Journal on Computing*.
 - Xueru Zhang, **Peiyao Liu**<sup>#</sup>, and Yong Chen. “Enhancing functional data rankings with shape-adaptive band depths.” Submitted to *INFORMS Journal on Computing*.
-- Bing Zhang, **Peiyao Liu**<sup>#</sup>, and Chen Zhang. “Online fault detection in imbalanced multi-mode computing clusters via Gaussian mixture-guided block learning.” Submitted to *IEEE Transactions on Industrial Informatics*.
-- Jie Guo, **Peiyao Liu**, Yujie Ma, Yifan Shi, Nan Chen, and Chen Zhang<sup>#</sup>. “Unsupervised online change detection for partially observable continuous curves with adaptive sampling.” Submitted to *IISE Transactions*.
-- Zichen Wang, **Peiyao Liu**, Yifan Li<sup>#</sup>, and Zhi-Sheng Ye. “Robust distributed monitoring of asynchronous functional data via multiple-site collaboration.” Submitted to *Naval Research Logistics*.
+- Bo Zhang, **Peiyao Liu**<sup>#</sup>, and Chen Zhang. “Online fault detection in imbalanced multi-mode computing clusters via Gaussian mixture-guided block learning.” Submitted to *IEEE Transactions on Industrial Informatics*.
+- Jie Guo, **Peiyao Liu**, Yujie Ma, Yuchen Shi, Nan Chen, and Chen Zhang<sup>#</sup>. “Unsupervised online change detection for partially observable continuous curves with adaptive sampling.” Submitted to *IISE Transactions*.
+- Zhijun Wang, **Peiyao Liu**, Yanting Li<sup>#</sup>, and Zhi-Sheng Ye. “Robust distributed monitoring of asynchronous functional data via multiple-site collaboration.” Submitted to *Naval Research Logistics*.
 
 ## Book Chapter and Patent
 
 - **Peiyao Liu** and Chen Zhang<sup>#</sup>. “Advanced data analytical techniques for profile monitoring.” In *Multimodal and Tensor Data Analytics for Industrial Systems Improvement*, pp. 21–39. Springer, 2024.
-- Xiaolong Deng, **Peiyao Liu**, Chen Zhang<sup>#</sup>, and Peng Ge. “Small-batch product sampling inspection program based on batch inspection, statistical process control, and process capability assessment.” Patent, 2025. (In Chinese)
+- Xiaochun Deng, **Peiyao Liu**, Chen Zhang<sup>#</sup>, Yang Yang, and Peng Ge. “A small-batch product sampling inspection method.” Patent, 2025. (In Chinese)
 
 > <sup>†</sup> Equal contribution; <sup>#</sup> corresponding author.
 
 
-<span class="anchor" id="presentations"></span>
-# 💬 <font color="#4A708B">Invited Talks & Presentations</font>
 
-- *2025*, INFORMS Conference on Quality, Statistics, and Reliability, Singapore — Finalist Speaker.
-- *2025*, 15th Youth Forum of the Chinese Society of Optimization, Overall Planning & Economic Mathematics, Harbin, China — Invited Speaker.
-- *2024*, INFORMS Annual Conference, Seattle, USA — Finalist and Invited Speaker.
-- *2023*, China Industrial Engineering PhD Forum, Beijing, China — Contributed Speaker.
-- *2023*, First National Mathematics and Statistics PhD Forum, Shenyang, China — Contributed Speaker.
-- *2023*, 11th Workshop on Quality and Reliability Science & Technology, Beijing, China — Contributed Speaker.
-- *2021*, IISE Annual Conference, Online — Finalist Speaker.
-- *2020*, China Industrial Engineering PhD Forum — Contributed Speaker.
-
-
-<span class="anchor" id="reviewing"></span>
-# 💻 <font color="#4A708B">Journal Reviewing</font>
-
-- *Technometrics*
-- *IISE Transactions*
-- *IEEE Transactions on Automation Science and Engineering*
-- *Quality and Reliability Engineering International*
-- *Quality Technology & Quantitative Management*
 
 
 <span class="anchor" id="news"></span>
@@ -169,6 +149,30 @@ I have published papers or received major revisions at leading journals includin
 - *2019* — Received the **Second Prize** in the 25th “Hua Luo Geng” Cup Mathematical Modeling Competition at Tsinghua University.
 - *2017–2019* — Received the **Academic Excellence Award**, Tsinghua University.
 - *2016* — Received the **First Prize** in the 14th Freshman Mechanical Innovation Contest.
+
+<span class="anchor" id="presentations"></span>
+# 💬 <font color="#4A708B">Invited Talks & Presentations</font>
+
+- *2026*, INFORMS Conference on Quality, Statistics, and Reliability (ICQSR) — Best Paper Competition Winner and Presenter.
+- *2026*, Workshop on Quality and Reliability Science & Technology (QRST) — Invited Speaker, Young Scholars Session.
+- *2025*, INFORMS Conference on Quality, Statistics, and Reliability, Singapore — Finalist Speaker.
+- *2025*, 15th Youth Forum of the Chinese Society of Optimization, Overall Planning & Economic Mathematics, Harbin, China — Invited Speaker.
+- *2024*, INFORMS Annual Conference, Seattle, USA — Finalist and Invited Speaker.
+- *2023*, China Industrial Engineering PhD Forum, Beijing, China — Contributed Speaker.
+- *2023*, First National Mathematics and Statistics PhD Forum, Shenyang, China — Contributed Speaker.
+- *2023*, 11th Workshop on Quality and Reliability Science & Technology, Beijing, China — Contributed Speaker.
+- *2021*, IISE Annual Conference, Online — Finalist Speaker.
+- *2020*, China Industrial Engineering PhD Forum — Contributed Speaker.
+
+
+<span class="anchor" id="reviewing"></span>
+# 💻 <font color="#4A708B">Journal Reviewing</font>
+
+- *Technometrics*
+- *IISE Transactions*
+- *IEEE Transactions on Automation Science and Engineering*
+- *Quality and Reliability Engineering International*
+- *Quality Technology & Quantitative Management*
 
 
 <span class="anchor" id="contact"></span>
