@@ -19,13 +19,11 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 # 🙋‍♂️ <font color="#4A708B">About</font>
 
-I am a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, supervised by Dr. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/).
+I am a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, supervised by Dr. [Nan Chen](https://cde.nus.edu.sg/isem/staff/chen-nan-2/). My research focuses on **AI-enabled quality engineering** for intelligent manufacturing and other data-rich systems, where high-dimensional, multimodal, streaming, and partially observed data must be converted into reliable real-time decisions.
 
-Modern industrial systems generate high-dimensional, multimodal, streaming, and partially observed data, while reliable decisions must often be made in real time. My research develops **AI-enabled quality engineering** methods that transform these complex data into actionable knowledge for intelligent manufacturing and other data-rich systems.
+My work follows a unified **learn–monitor–decide–control** framework. I develop methods for complex data modeling, anomaly and change detection, adaptive sensing, causal and structure learning, and feedback control, using machine learning, reinforcement learning, functional data analysis, tensor learning, and state-space models.
 
-My work follows a unified **learn–monitor–decide–control** framework. I study representation and dynamic modeling of complex industrial data, anomaly and change detection, adaptive sensing and data acquisition, causal and structure learning, and feedback control. Methodologically, I combine machine learning, functional data analysis, tensor learning, state-space modeling, adaptive sensing, causal inference, and operations research.
-
-I have published papers or received major revisions at leading journals in Quality, Statistics, Reliability, Operations Research, and Artificial Intelligence, including *Technometrics*, *IISE Transactions*, *European Journal of Operational Research*, *Journal of Quality Technology*, and *IEEE Transactions on Knowledge and Data Engineering*. My work has received awards from ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRST. See my [Google Scholar profile](https://scholar.google.com/citations?user=VKBRUmsAAAAJ).
+I have published papers or received major revisions at leading journals including *IEEE Transactions on Knowledge and Data Engineering*, *Technometrics*, *IISE Transactions*, *European Journal of Operational Research*, and *Journal of Quality Technology*. My work has received awards from ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRST. See my [Google Scholar profile](https://scholar.google.com/citations?user=VKBRUmsAAAAJ).
 
 **<font color="#990000">I am actively seeking a tenure-track Assistant Professor position. Please feel free to contact me if you know of a suitable opportunity.</font>**
 
@@ -111,6 +109,7 @@ I have published papers or received major revisions at leading journals in Quali
 
 ## 2026
 
+- Received the **Best Paper Competition Winner** award at the 2026 INFORMS Conference on Quality, Statistics, and Reliability.
 - Our paper “Feedback control for functional time series via functional state space with exogenous inputs” received a **Major Revision** from *European Journal of Operational Research*.
 - Our paper “Structure learning for functional directed acyclic graph via order-of-addition experiment” received a **Major Revision** from *IISE Transactions*.
 - Our paper “Motorail loading problem with two-dimensional irregular constraints” received a **Major Revision** from *Transportation Research Part B: Methodological*.
@@ -129,6 +128,7 @@ I have published papers or received major revisions at leading journals in Quali
 
 ## 2024
 
+- Featured in the [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf).
 - *2024.10* — Named a **QSR Best Refereed Paper Award Finalist** at the INFORMS Annual Conference.
 - *2024.10* — Received the **DMDA Best Paper Award Runner-up** at the INFORMS Annual Conference.
 - Selected for the **CAST Young Talent Support Program (PhD Candidate Special Project)**.
@@ -146,16 +146,18 @@ I have published papers or received major revisions at leading journals in Quali
 - Selected for the **Future Professor Training Program**, Department of Industrial Engineering, Tsinghua University.
 - Received the **Mitsubishi Heavy Industries Scholarship**.
 - Named **Personality of the Year**, Department of Industrial Engineering, Tsinghua University.
-- Received the **Graduate Comprehensive Award**, Department of Industrial Engineering, Tsinghua University, for 2021–2023.
+- Received the **Graduate Comprehensive Award**, Department of Industrial Engineering, Tsinghua University.
 - Our paper “In-profile monitoring for cluster-correlated data in advanced manufacturing system” was published in *Journal of Quality Technology*.
 
 ## 2022
 
+- Received the **Graduate Comprehensive Award**, Department of Industrial Engineering, Tsinghua University.
 - Our paper “Functional state-space model for multi-channel autoregressive profiles with application in advanced manufacturing” was published in *Journal of Manufacturing Systems*.
 - Our paper “Hybrid feature fusion for NC milling process monitoring” was published in *Modular Machine Tool & Automatic Manufacturing Technique*.
 
 ## 2021
 
+- Received the **Graduate Comprehensive Award**, Department of Industrial Engineering, Tsinghua University.
 - *2021.05* — Named a **QCRE Best Student Paper Award Finalist** at the IISE Annual Conference.
 
 ## 2020
@@ -167,12 +169,6 @@ I have published papers or received major revisions at leading journals in Quali
 - *2019* — Received the **Second Prize** in the 25th “Hua Luo Geng” Cup Mathematical Modeling Competition at Tsinghua University.
 - *2017–2019* — Received the **Academic Excellence Award**, Tsinghua University.
 - *2016* — Received the **First Prize** in the 14th Freshman Mechanical Innovation Contest.
-
-
-<span class="anchor" id="media"></span>
-# 📰 <font color="#4A708B">Media</font>
-
-- [2024 Tsinghua IE Bulletin](https://www.ie.tsinghua.edu.cn/qinghuadaxuegongyegongchengxijianbao2024niandi1qizongdi2qi.pdf)
 
 
 <span class="anchor" id="contact"></span>
