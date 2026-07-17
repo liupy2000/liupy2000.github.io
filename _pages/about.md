@@ -89,7 +89,7 @@ I have published papers or received major revisions at leading journals includin
 
 ## 2026
 
-- Received the **Best Paper Competition Winner** award at the 2026 INFORMS Conference on Quality, Statistics, and Reliability.
+- *2026.07* — Received the **Best Paper Competition Winner** award at the 2026 INFORMS Conference on Quality, Statistics, and Reliability.
 - Our paper “Feedback control for functional time series via functional state space with exogenous inputs” received a **Major Revision** from *European Journal of Operational Research*.
 - Our paper “Structure learning for functional directed acyclic graph via order-of-addition experiment” received a **Major Revision** from *IISE Transactions*.
 - Our paper “Motorail loading problem with two-dimensional irregular constraints” received a **Major Revision** from *Transportation Research Part B: Methodological*.
@@ -100,7 +100,7 @@ I have published papers or received major revisions at leading journals includin
 
 ## 2025
 
-- *2025.07* — Received the **Best Paper Award** at the INFORMS Conference on Quality, Statistics, and Reliability.
+- *2025.07* — Received the **Best Paper Competition Winner** award at the INFORMS Conference on Quality, Statistics, and Reliability.
 - *2025.05* — Received the **Excellent Paper Award** at the 15th Youth Forum of the Chinese Society of Optimization, Overall Planning & Economic Mathematics.
 - Received the **Tsinghua University Outstanding Doctoral Dissertation Award**.
 - Named a **Tsinghua University Outstanding Doctoral Graduate**.
