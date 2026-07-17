@@ -36,7 +36,7 @@ I have published papers or received major revisions at leading journals includin
 - *2018.07–2018.09*, Visiting Scholar, Department of Mechanical Engineering and Materials Science, Duke University, Durham, North Carolina, USA. Advisor: Prof. [Tony Jun Huang](https://mems.duke.edu/people/tony-jun-huang/).
 
 
-<span class="anchor" id="education"></span>
+<span class="anchor" id="educations"></span>
 # 📖 <font color="#4A708B">Education</font>
 
 - *2020–2025*, Ph.D. in Industrial Engineering, Tsinghua University, Beijing, China. Advisor: Dr. [Chen Zhang](https://www.ie.tsinghua.edu.cn/info/1051/1048.htm).
@@ -150,7 +150,7 @@ I have published papers or received major revisions at leading journals includin
 - *2017–2019* — Received the **Academic Excellence Award**, Tsinghua University.
 - *2016* — Received the **First Prize** in the 14th Freshman Mechanical Innovation Contest.
 
-<span class="anchor" id="presentations"></span>
+<span class="anchor" id="invited-talks"></span>
 # 💬 <font color="#4A708B">Invited Talks & Presentations</font>
 
 - *2026*, INFORMS Conference on Quality, Statistics, and Reliability (ICQSR) — Best Paper Competition Winner and Presenter.
